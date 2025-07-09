@@ -13,7 +13,7 @@ This repository contains a set of scripts to install a Kubernetes cluster using 
 Clone this repository on all machines.
 
 ```bash
-git clone https://github.com/sculley/kubeadm-kubernetes-install.git
+git clone https://github.com/lancaster2001/kubeadm-kubernetes-install.git
 ```
 
 On the machine that will be the control-plane node run the following command:
