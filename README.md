@@ -1,5 +1,5 @@
-note: This Repo is a copy from https://github.com/sculley/kubeadm-kubernetes-install#
-      This is for personal use to prevent my own projects from failing in the event the original repo disappears.
+note: This Repo is a copy from https://github.com/sculley/kubeadm-kubernetes-install#,
+this is for personal use to prevent my own projects from failing in the event the original repo disappears.
 # kubeadm-kubernetes-install
 
 This repository contains a set of scripts to install a Kubernetes cluster using `kubeadm` on Ubuntu/Debian systems.
